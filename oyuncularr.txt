@@ -1,0 +1,22 @@
+Oyuncu1'in kasadaki altın miktarı:180
+Oyuncu1'in toplanan altın miktarı:25
+Oyuncu1'in harcanan altın miktarı:45
+Oyuncu1'in toplam adım sayısı :10
+
+
+Oyuncu2'nin kasadaki altın miktarı:200
+Oyuncu2'nin toplanan altın miktarı:40
+Oyuncu2'nin harcanan altın miktarı:40
+Oyuncu2'nin toplam adım sayısı :11
+
+
+Oyuncu3'un kasadaki altın miktarı:220
+Oyuncu3'un toplanan altın miktarı:60
+Oyuncu3'un harcanan altın miktarı:40
+Oyuncu3'un toplam adım sayısı :6
+
+
+Oyuncu4'un kasadaki altın miktarı:170
+Oyuncu4'un toplanan altın miktarı:10
+Oyuncu4'un harcanan altın miktarı:40
+Oyuncu4'un toplam adım sayısı :7
